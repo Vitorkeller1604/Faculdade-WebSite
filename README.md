@@ -8,8 +8,7 @@
 
 ## Técnologias Utilizadas ##
 
-* Design UX
-* Design UI
+* Design UX e UI
 * Figma
 * HTML
 * CSS
